@@ -5,7 +5,7 @@
 
 ## Problem
 A micro-crack in a PCB trace causes complete device failure.
-This is critical in medical devices, aerospace, defence and consumer electronics.
+This is critical in medical devices, aerospace, defence, EV's, Solar inverters and consumer electronics.
 Current repair is slow, expensive and requires full board replacement.
 
 ## Solution
